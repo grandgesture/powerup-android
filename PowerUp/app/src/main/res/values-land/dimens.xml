@@ -49,4 +49,5 @@
     <dimen name="questionview_tv_margin_left">15dp</dimen>
     <dimen name="gameActivity_rl_marginTop">10dp</dimen>
     <dimen name="continue_button_map_margin_bottom_landscape">40dp</dimen>
+    <dimen name="scenario_description_marginTop">6dp</dimen>
 </resources>
